@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/cmake/../third_party/doctest -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles\\dv_doctest_main.dir\\tests\\test_main.cpp.obj -c D:\\Users\\siddh\\github_repos_ddrive\\devventura-cpp-projects\\link-shortener-cpp\\tests\\test_main.cpp",
+  "file": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/tests/test_main.cpp",
+  "output": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build/CMakeFiles/dv_doctest_main.dir/tests/test_main.cpp.obj"
+},
+{
+  "directory": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/include -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles\\hop.dir\\src\\short_code.cpp.obj -c D:\\Users\\siddh\\github_repos_ddrive\\devventura-cpp-projects\\link-shortener-cpp\\src\\short_code.cpp",
+  "file": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/src/short_code.cpp",
+  "output": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build/CMakeFiles/hop.dir/src/short_code.cpp.obj"
+},
+{
+  "directory": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/include -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles\\hop.dir\\src\\link_store.cpp.obj -c D:\\Users\\siddh\\github_repos_ddrive\\devventura-cpp-projects\\link-shortener-cpp\\src\\link_store.cpp",
+  "file": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/src/link_store.cpp",
+  "output": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build/CMakeFiles/hop.dir/src/link_store.cpp.obj"
+},
+{
+  "directory": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/include -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles\\hop.dir\\src\\console.cpp.obj -c D:\\Users\\siddh\\github_repos_ddrive\\devventura-cpp-projects\\link-shortener-cpp\\src\\console.cpp",
+  "file": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/src/console.cpp",
+  "output": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build/CMakeFiles/hop.dir/src/console.cpp.obj"
+},
+{
+  "directory": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/include -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles\\hop_console.dir\\app\\main.cpp.obj -c D:\\Users\\siddh\\github_repos_ddrive\\devventura-cpp-projects\\link-shortener-cpp\\app\\main.cpp",
+  "file": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/app/main.cpp",
+  "output": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build/CMakeFiles/hop_console.dir/app/main.cpp.obj"
+},
+{
+  "directory": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/cmake/../third_party/doctest -ID:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/include -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles\\tests_m1.dir\\tests\\m1_short_code_test.cpp.obj -c D:\\Users\\siddh\\github_repos_ddrive\\devventura-cpp-projects\\link-shortener-cpp\\tests\\m1_short_code_test.cpp",
+  "file": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/tests/m1_short_code_test.cpp",
+  "output": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build/CMakeFiles/tests_m1.dir/tests/m1_short_code_test.cpp.obj"
+},
+{
+  "directory": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/cmake/../third_party/doctest -ID:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/include -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles\\tests_m2.dir\\tests\\m2_link_store_test.cpp.obj -c D:\\Users\\siddh\\github_repos_ddrive\\devventura-cpp-projects\\link-shortener-cpp\\tests\\m2_link_store_test.cpp",
+  "file": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/tests/m2_link_store_test.cpp",
+  "output": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build/CMakeFiles/tests_m2.dir/tests/m2_link_store_test.cpp.obj"
+},
+{
+  "directory": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/cmake/../third_party/doctest -ID:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/include -std=c++20 -Wall -Wextra -Wpedantic -o CMakeFiles\\tests_m3.dir\\tests\\m3_console_test.cpp.obj -c D:\\Users\\siddh\\github_repos_ddrive\\devventura-cpp-projects\\link-shortener-cpp\\tests\\m3_console_test.cpp",
+  "file": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/tests/m3_console_test.cpp",
+  "output": "D:/Users/siddh/github_repos_ddrive/devventura-cpp-projects/link-shortener-cpp/build/CMakeFiles/tests_m3.dir/tests/m3_console_test.cpp.obj"
+}
+]
